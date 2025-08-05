@@ -70,15 +70,19 @@ lab:
 
 ### 添加 SharePoint URL
 
-1. 在 Copilot Studio 中产品支持代理的概述页面中，选择“**知识**”部分中的“**添加知识**”。
+1. 在 Web 浏览器中，导航到位于 `https://copilotstudio.microsoft.com` 的 [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/)。
+1. 选择“**代理**”。
+1. 选择“Microsoft 365 Copilot”****。
+1. 选择“产品支持”**** 智能体。
+1. 在智能体概述页面的“知识”部分中，选择“添加知识”********。
 
     ![Microsoft Edge 中 Copilot Studio 的屏幕截图，其中突出显示了产品支持代理的“添加知识”按钮。](../Media/product-support-add-knowledge.png)
 
-2. 在已打开向导的“**添加知识**”页面上，选择“**SharePoint**”。
-3. 在文本框中，粘贴**产品** SharePoint 库的 URL，然后选择“**添加**”。 它应采用格式 `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`。
+1. 在已打开向导的“**添加知识**”页面上，选择“**SharePoint**”。
+1. 在文本框中，粘贴**产品** SharePoint 库的 URL，然后选择“**添加**”。 它应采用格式 `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`。
 
-4. 在“**添加 SharePoint**”窗口中选择“**添加**”，然后等待知识源添加到代理。 此操作可能会需要一两分钟的时间。
-5. 请注意，**产品**库在代理概述信息的“**知识**”部分下列出。
+1. 在“**添加 SharePoint**”窗口中选择“**添加**”，然后等待知识源添加到代理。 此操作可能会需要一两分钟的时间。
+1. 请注意，**产品**库在代理概述信息的“**知识**”部分下列出。
 
 > **备注**：Copilot Studio 代理代表用户访问文档。 代理只能从最终用户有权访问的文档获取答案和内容。
 

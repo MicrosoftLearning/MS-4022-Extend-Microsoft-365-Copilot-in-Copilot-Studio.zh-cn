@@ -108,7 +108,7 @@ lab:
 
 接下来，让我们在 Microsoft 365 Copilot 中运行声明性代理，并在**沉浸式**体验和**上下文中**体验中验证其功能。
 
-按照前面的步骤，你当前处于**沉浸式**代理体验中。 请注意，在右侧的“**代理**”窗格中，选择“**产品支持**”作为你当前正在直接与之聊天的代理。
+按照前面的步骤，你当前处于**沉浸式**代理体验中。 请注意，在聊天界面一侧的“智能体”窗格中，选择了“产品支持”作为你当前正在直接与之聊天的智能体********。
 
 ![Microsoft 365 Copilot 中产品支持代理的沉浸式体验屏幕截图。](../Media/product-support-immersive.png)
 
@@ -117,7 +117,7 @@ lab:
 
 在浏览器中继续，让我们测试**上下文中**体验。
 
-1. 在聊天窗口右侧的“**代理**”窗格上方，选择 **Copilot**，退出与**产品支持**代理的沉浸式聊天，并与 Microsoft 365 Copilot 聊天。
+1. 在边栏的“智能体”窗格上方，选择“聊天”或“M365 Copilot”，退出与“产品支持”智能体的沉浸式聊天，并与智能 Microsoft 365 Copilot 副驾驶® 聊天****************。
 
     ![Microsoft 365 Copilot 边栏中 Copilot 按钮的屏幕截图。](../Media/select-copilot.png)
 
@@ -127,7 +127,7 @@ lab:
 
 1. 在浮出控件中，选择“**产品支持**”。 请注意消息框上方的状态消息。 它显示“**与产品支持聊天**”，表示你正在使用代理的上下文中体验。
 
-    ![Microsoft Teams 中的 Microsoft Edge 屏幕截图。 突出显示状态消息“与产品支持聊天”。](../Media/product-support-in-context.png)
+    ![Microsoft 365 Copilot 中的 Microsoft Edge 屏幕截图。 突出显示状态消息“与产品支持聊天”。](../Media/product-support-in-context.png)
 
 1. 在文本框中，输入 `What can you do?`，然后提交消息。
 
@@ -135,6 +135,6 @@ lab:
 
 1. 若要退出上下文中体验，请在状态消息中选择 (X)。 请注意，状态消息已删除，并且聊天窗口中会显示一条消息，指示你不再与代理聊天。
 
-    ![Microsoft Teams 中的 Microsoft Edge 屏幕截图。 代理状态消息中的交叉图标突出显示。](../Media/exit-in-context-experience.png)
+    ![Microsoft 365 Copilot 中的 Microsoft Edge 屏幕截图。 代理状态消息中的交叉图标突出显示。](../Media/exit-in-context-experience.png)
 
 现已在 Microsoft 365 Copilot 的沉浸式体验和上下文中体验中测试了代理。
