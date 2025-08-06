@@ -19,7 +19,9 @@ lab:
 ## 创建 SharePoint 连接器操作
 
 1. 在 Web 浏览器中，导航到位于 `https://www.copilotstudio.microsoft.com` 的 [Copilot Studio](https://www.copilotstudio.microsoft.com)。
-1. 从**库**中选择你的“**产品支持**”代理。
+1. 在边栏中，选择“智能体”****。
+1. 选择“智能 Microsoft 365 Copilot 副驾驶®”****。
+1. 在“智能体”下，选择“产品支持”智能体********。
 1. 在“**操作**”下，选择“**添加操作**”。
 1. 在“**添加操作**”窗口的“**搜索**”栏中输入 `SharePoint`。 等待窗口中显示相关操作。
 1. 浏览并选择“**列表文件夹 SharePoint**”连接器操作。
